@@ -1,8 +1,10 @@
 # Design to Code Bridge
 
-[Live Preview](INSERT_YOUR_LIVE_URL_HERE) | [Technical Documentation](https://github.com/mirabelledoiron/design-to-code-bridge-technical-documentation-hub/wiki)
+[Live Preview](https://www.design-to-code-bridge.com/) 
 
-[Design-to-Code Bridge](https://github.com/mirabelledoiron/Design-to-Code-Bridge) 
+[Technical Documentation](https://github.com/mirabelledoiron/design-to-code-bridge-technical-documentation-hub/wiki)
+
+[Design-to-Code Bridge codebase](https://github.com/mirabelledoiron/Design-to-Code-Bridge) 
 
 is a professional UX-Engineering tool designed to bridge the gap between design system variables and production-ready code. It automates the extraction, transformation, and distribution of design tokens to ensure high-fidelity implementation.
 
